@@ -1,2 +1,2 @@
 # deadstarssociety.github.io
-public website for Dead Stars Socity
+public website for Dead Stars Society
