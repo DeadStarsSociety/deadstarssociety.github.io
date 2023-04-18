@@ -48,7 +48,7 @@ b,strong {font-weight:700;}
 /* Layout IDs */
 #header{position:relative;}
 #sitetitle{float:left;margin:30px 0 10px 30px;}
-#sitetitle h1 {font-size:40px;color:#fdfefe;margin:0;padding:0;}
+#sitetitle h1 {font-size:30px;color:#fdfefe;margin:0;padding:0;}
 #header-image{height:300px;margin:0;padding:0;}
 #content{padding:15px 30px;background-color:#643b1b;color:#ddd;}
 #content h2,#content h3,#content h4{color:#ddd;}
